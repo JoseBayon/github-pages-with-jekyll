@@ -1,7 +1,7 @@
 ---
 title: "Blog con GitHub Pages"
 date: 2019-09-25
----
+
 
 author: @joshcancode
 email: nope
@@ -16,3 +16,4 @@ github_username:  JoseBayon
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
